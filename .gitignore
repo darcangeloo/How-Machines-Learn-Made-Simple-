@@ -1,6 +1,7 @@
 # Word files
 *.docx
-
+# Tmp files
+*.tmp
 # Python cache
 __pycache__/
 *.pyc
