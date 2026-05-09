@@ -1,1 +1,13 @@
-C:\Users\rdarc\Desktop\Artificial Intelligence\How Machines Learn (Made Simple)\How Machines Learn Made Simple.docx
+# Word files
+*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
